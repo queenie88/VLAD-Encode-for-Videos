@@ -21,8 +21,8 @@ Other required:
 For matlab: 
 System environment required: Linux or Windows. 
 Other required: 
-1. vlfeat
-2. libsvm
+1. vlfeat.
+2. libsvm.
 
 
 # Files and Functions: 
