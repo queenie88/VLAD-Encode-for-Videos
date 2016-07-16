@@ -11,6 +11,7 @@ The two contribution of this paper are those:
 # Environment Required: 
 
 For python: 
+
 System environment required: Linux. 
 Other required:
 
@@ -20,6 +21,7 @@ Other required:
 4. caffe model configuration : VGG_ILSVRC_16_layers_deploy.prototxt, can be found in caffe model zoo
 
 For matlab: 
+
 System environment required: Linux or Windows. 
 Other required:
 
