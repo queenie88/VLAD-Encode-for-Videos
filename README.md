@@ -12,21 +12,17 @@ The two contribution of this paper are those:
 
 For python: 
 
-System environment required: Linux. 
-Other required:
-
 1. gpu.
 2. caffe. 
 3. caffe trained model parameters: VGG_ILSVRC_16_layers.caffemodel, can be found in caffe model zoo. 
-4. caffe model configuration : VGG_ILSVRC_16_layers_deploy.prototxt, can be found in caffe model zoo
+4. caffe model configuration : VGG_ILSVRC_16_layers_deploy.prototxt, can be found in caffe model zoo. 
+5. Linux. 
 
 For matlab: 
 
-System environment required: Linux or Windows. 
-Other required:
-
 1. vlfeat.
 2. libsvm.
+3. Linux or Windows
 
 
 # Files and Functions: 
