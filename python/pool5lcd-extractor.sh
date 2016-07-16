@@ -1,5 +1,5 @@
 #!/bin/sh
-# Author: Xiukun
+# Author: Xiukun Huang
 # Date: April, 2016
 
 #sh pool5lcd-extractor.sh 3 5 0 500  # folder from 3 to 5  use gpu 0  batch_size 500
