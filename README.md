@@ -12,7 +12,7 @@ The two contribution of this paper are those:
 
 For python: 
 
-1. gpu.
+1. GPU.
 2. caffe. 
 3. caffe trained model parameters: VGG_ILSVRC_16_layers.caffemodel, can be found in caffe model zoo. 
 4. caffe model configuration : VGG_ILSVRC_16_layers_deploy.prototxt, can be found in caffe model zoo. 
