@@ -239,3 +239,6 @@ def main(argv):
     f.close()
     print("Extraction finished!")
     logger.info("Extraction finished!")
+
+if __name__ == '__main__':
+    main()
